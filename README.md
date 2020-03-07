@@ -1,2 +1,5 @@
 # backtracking-python
-# backtracking-python
+
+follow along tutorial 
+
+sudoku solver
