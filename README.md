@@ -1,5 +1,6 @@
 # backtracking-python
 
-follow along tutorial 
-
 sudoku solver
+
+
+learning about backtracking
